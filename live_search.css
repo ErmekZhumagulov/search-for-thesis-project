@@ -3,16 +3,11 @@
 }
 
 .appear {
-    display: inline-block !important;
+    display: block !important;
 }
 
 .searchShower {
     padding: 10px;
     background-color: aqua;
     display: block !important;
-}
-
-body > .search-point > ul.table-template > li > div > span:nth-child(1),
-body > .search-point > ul.table-template > li > div > span:nth-child(2) {
-    display: none;
 }
